@@ -1,0 +1,5 @@
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\bin\Debug\SmileWei.EmbeddedEXE.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\bin\Debug\SmileWei.EmbeddedEXE.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\SmileWei.EmbeddedEXE.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\SmileWei.EmbeddedEXE.pdb

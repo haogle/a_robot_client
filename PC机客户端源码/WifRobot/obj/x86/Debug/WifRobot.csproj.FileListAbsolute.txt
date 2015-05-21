@@ -1,0 +1,107 @@
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\bin\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Users\liuviking\Desktop\WifRobot\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.exe
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.pdb
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\WifRobot.exe
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\WifRobot.pdb
+E:\机器人\WifRobot单机版\WifRobot\bin\Debug\Interop.SpeechLib.dll
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\Interop.SpeechLib.dll
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifRobot.csproj.ResolveComReference.cache
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\机器人\WifRobot单机版\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Form1.resources
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+C:\Documents and Settings\COOL\桌面\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+C:\Documents and Settings\COOL\桌面\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+D:\wifi机器人\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.exe
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.pdb
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.exe
+D:\Wifi机器人\Code\上位机\PC\121208\WifRobot单字符控制版\WifRobot\bin\Debug\WifRobot.pdb
+C:\Documents and Settings\ASUS\桌面\WifRobot单字符控制版\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\bin\Debug\WF-103Rb.exe
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\bin\Debug\WF-103Rb.pdb
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\WF-103Rb.exe
+D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot\obj\x86\Debug\WF-103Rb.pdb
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.exe
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.pdb
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\bin\Debug\WF-103Rb.exe
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\bin\Debug\WF-103Rb.pdb
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WifRobot.csprojResolveAssemblyReference.cache
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\SUNBIN\Desktop\PC机客户端源码\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache
+G:\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.exe
+G:\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.pdb
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.exe
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WF-103Rb.pdb
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\bin\Debug\WF-103Rb.exe
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\bin\Debug\WF-103Rb.pdb
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WifRobot.csprojResolveAssemblyReference.cache
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Config.resources
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Mainfrm.resources
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WifiVideo.Properties.Resources.resources
+C:\Users\haogle\Desktop\NMEA2OSGdemo\PC机客户端源码\WifRobot\obj\x86\Debug\WifRobot.csproj.GenerateResource.Cache

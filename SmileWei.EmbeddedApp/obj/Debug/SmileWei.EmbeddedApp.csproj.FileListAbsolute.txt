@@ -1,0 +1,66 @@
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\obj\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedEXE\bin\Debug\AppContainer.bmp
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\bitzhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+D:\zhuwei\Projects\SmileWei.EmbeddedApp - 副本\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+H:\1zhuwei\Projects\BulletSim\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\ResolveAssemblyReference.cache
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+F:\zhuwei\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\DELL\Desktop\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojResolveAssemblyReference.cache
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+E:\D盘文件\Download\SmileWei.EmbeddedApp20150201\SmileWei.EmbeddedApp\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\bin\Debug\AppContainer.bmp
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\bin\Debug\SmileWei.EmbeddedApp.pdb
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.csprojResolveAssemblyReference.cache
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.dll
+C:\Users\haogle\Desktop\NMEA2OSGdemo\SmileWei.EmbeddedApp\obj\Debug\SmileWei.EmbeddedApp.pdb

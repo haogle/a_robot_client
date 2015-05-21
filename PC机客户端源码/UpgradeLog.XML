@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WifRobot">
+</Property><Property Name="解决方案文件" Value="D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot.sln">
+</Property><Property Name="用户选项文件" Value="D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\WifRobot.suo">
+</Property><Property Name="Date" Value="2013年7月11日">
+</Property><Property Name="Time" Value="23:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WifRobot.sln" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WifRobot.suo" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot.suo">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\WifRobot.csproj" Description="项目文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\WifRobot.csproj">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\WifRobot.csproj.user" Description="项目用户文件成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\WifRobot.csproj.user">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Config.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Config.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Config.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Config.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Core\API.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Core\API.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Core\Joystick.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Core\Joystick.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Core\JoystickEventArgs.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Core\JoystickEventArgs.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\MainFrm.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\MainFrm.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\MainFrm.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\MainFrm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Program.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Program.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Properties\AssemblyInfo.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Properties\Resources.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Properties\Settings.Designer.cs" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Properties\Settings.settings" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\WifiCar.ico" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\WifiCar.ico">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Config.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Config.resx">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\MainFrm.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\MainFrm.resx">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\Properties\Resources.resx" Description="文件已成功备份为 D:\Users\Administrator\Desktop\tb\MyWifiCar_PC\MyWifiCar_PC\Backup\WifRobot\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WifRobot" Source="WifRobot\WifRobot.csproj" Description="项目文件不需要转换。">
+</Event><Event ErrorLevel="3" Project="WifRobot" Source="WifRobot\WifRobot.csproj" Description="无需转换">
+</Event><Event ErrorLevel="0" Project="" Source="WifRobot.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WifRobot.sln" Description="Converted">
+</Event></UpgradeLog>
